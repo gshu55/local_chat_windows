@@ -14,3 +14,5 @@ LocalChat 是 Windows x64 上的局域网聊天和文件传输工具。两台电
 ## 更新
 
 在「设置 → 软件更新」点击「检查更新」。发现新版后可直接选择对应的下载。升级前从托盘菜单退出 LocalChat，再运行新版安装包，或完整解压并替换免安装版的程序文件。原有身份、设置和聊天记录会继续使用。[历次版本和发行说明](https://github.com/gshu55/local_chat_windows/releases)
+
+每个版本都附带 `latest.json`，其中列出安装包和免安装版的下载地址、大小和 SHA-256。客户端从固定链接获取最新清单。[查看更新清单](https://github.com/gshu55/local_chat_windows/releases/latest/download/latest.json)
